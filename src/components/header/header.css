@@ -1,0 +1,15 @@
+
+.fixheight{
+height:70px;
+display:flex;
+align-items:center;
+background: #fff;
+}
+
+.alignright{
+    justify-content: flex-end;
+}
+
+.ml{
+    margin-left:.5em;
+}
